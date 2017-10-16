@@ -5,6 +5,4 @@ function forLoop(array){
     }else{
       console.log(array + "I am " + i + " strange loops.")
     }
-    //console.log("I am ${i} strange loop${i === 0 ? '' : 's'}.")
-  }
 }
